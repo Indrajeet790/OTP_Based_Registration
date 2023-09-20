@@ -1,4 +1,4 @@
-# QuadB_TECH-Assignement
+# Otp-Based_Registration
 
 
 ## Table of Contents
