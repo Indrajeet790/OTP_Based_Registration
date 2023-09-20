@@ -1,7 +1,7 @@
 const User = require("../Models/userModel")
 const sendOtp = require("../Models/send_otp")
 const generateOtp = require("../config/gererateOtp")
-const ip = require("../config/useerIp")
+const ip = require("../config/userIp")
 
 //API to send send otp
 module.exports.sendOtp = async (req, res) => {
